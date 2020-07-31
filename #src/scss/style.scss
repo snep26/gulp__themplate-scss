@@ -18,6 +18,17 @@
 @import "popup";
 /*====================*/
 
-.main {
-   display: flex;
+/*general styles*/
+.popup-wrapper {
+   padding: 0 20px;
+   max-width: 100%;
 }
+
+body {
+   height: 1000px;
+}
+
+body.lock {
+   overflow: hidden;
+}
+/*====================*/
