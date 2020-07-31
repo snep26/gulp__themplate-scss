@@ -1,0 +1,23 @@
+/* reset styles */
+@import "reset";
+/*====================*/
+
+/* fonts */
+@import "fonts";
+/*====================*/
+
+/* header */
+@import "header";
+/*====================*/
+
+/* footer */
+@import "footer";
+/*====================*/
+
+/* popup */
+@import "popup";
+/*====================*/
+
+.main {
+   display: flex;
+}
